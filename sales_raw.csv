@@ -1,0 +1,5 @@
+order_id,order_date,customer_name,product_name,category,quantity,unit_price,country
+1001,2024-01-05,Jan Kowalski,Laptop,Electronics,1,3500,Poland
+1002,2024-01-06,Anna Nowak,Mouse,Electronics,2,80,Poland
+1004,2024-01-07,Katarzyna Zielińska,Monitor,Electronics,2,900,Germany
+1005,2024-01-08,Marcin Kaczmarek,Chair,Furniture,1,350,Poland
