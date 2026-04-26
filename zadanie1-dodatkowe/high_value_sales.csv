@@ -1,0 +1,3 @@
+order_id,order_date,customer_name,product_name,category,quantity,unit_price,country,total_value
+1001,2024-01-05,Jan Kowalski,Laptop,Electronics,1,3500,Poland,3500
+1004,2024-01-07,Katarzyna Zielińska,Monitor,Electronics,2,900,Germany,1800
